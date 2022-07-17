@@ -1,25 +1,4 @@
-//════════════════════════════//
-//If you want to recode, reupload
-//or copy the codes/script,
-//pls give credit
-//no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
-//════════════════════════════//
-//recode kar ke youtube pe upload kar rhe ya
-//codes copy kar ke apne script me dal rhe
-//hai to, description me xeon ka yt channel
-// ka link paste kr dena as a cradit or github 
-//repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
-//════════════════════════════//
-//If you recode and uploading on your channel
-//or copy pasting the codes in ur script, 
-//i give permission to do as long as you
-//put Xeons youtube channel link in the video
-//description and tag me on githuh repo, 
-//thank you🦄
-//════════════════════════════//
+
 
 const fs = require("fs")
 const chalk = require("chalk")
@@ -41,7 +20,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['917561823024'] //ur owner number
+global.owner = ['918129927512'] //ur owner number
 global.ownername = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"
 global.ytname = "YT: ʜᴇʟʟ ʙᴏʏ" //ur yt chanel name
 global.socialm = "GitHub: HELLBOY7561" //ur github or insta name
@@ -51,12 +30,12 @@ global.location = "India, Kerala, Idukki" //ur location
 global.botname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ" //ur bot name
 global.websitex = "https://youtube.com/channel/UCWOF5p3b7rRlEgN-f3S3V0w" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ ʙʏ"
+global.packname = "🍒🍃𝚫𝐘𝜹𝙃𝙒𝚫𝙍𝙔𝚫✦⃝࿅➣"
 global.author = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"
 global.themeemoji = "❏"
 global.reactmoji = "🌝"
-global.ownertag = ['917561823024'] //ur owner tag
-global.ownernummenu = ['917561823024'] //ur owner number in menu and all
+global.ownertag = ['918129927512'] //ur owner tag
+global.ownernummenu = ['918129927512'] //ur owner number in menu and all
 global.watermark = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ" //ur watermark
 global.botscript = "https://github.com/HELLBOY7561/HELL-BOY-MD-V3"
 global.linkz1 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
