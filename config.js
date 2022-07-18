@@ -21,7 +21,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['918129927512'] //ur owner number
-global.ownername = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"
+global.ownername = "🍒🍃𝚫𝙇͢𝙇𝚫𝙑𝙐͢𝘿𝙄𝙉 𝙈𝚫͢𝙎𝙎⃝࿅➣"
 global.ytname = "YT: ʜᴇʟʟ ʙᴏʏ" //ur yt chanel name
 global.socialm = "GitHub: HELLBOY7561" //ur github or insta name
 global.location = "India, Kerala, Idukki" //ur location
@@ -31,7 +31,7 @@ global.botname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ" //ur bot name
 global.websitex = "https://youtube.com/channel/UCWOF5p3b7rRlEgN-f3S3V0w" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "🍒🍃𝚫𝐘𝜹𝙃𝙒𝚫𝙍𝙔𝚫✦⃝࿅➣"
-global.author = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"
+global.author = "🍒🍃𝚫𝙇͢𝙇𝚫𝙑𝙐͢𝘿𝙄𝙉 𝙈𝚫͢𝙎𝙎⃝࿅➣"
 global.themeemoji = "❏"
 global.reactmoji = "🌝"
 global.ownertag = ['918129927512'] //ur owner tag
